@@ -1,0 +1,31 @@
+#bio {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+    font-family: 'Helvetica', cursive;
+    background-color: aliceblue;
+}
+
+.biocontainer {
+    width: 60%;
+    height: 80%;
+    padding: 1%;
+}
+
+.biocontainer h1 {
+    font-size: 2rem;
+    margin-top: 15%;
+    margin-bottom: 10%;
+}
+
+.biocontainer h2 {
+    font-size: 2rem;
+    margin: 5% 0;
+}
+
+.biocontainer .bio-text {
+    color: gray;
+    line-height: 2rem;
+}
